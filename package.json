@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "dia3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/servidor.js",
+  "scripts": {
+    "dev": "nodemon src/servidor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fast-csv": "^5.0.1",
+    "mysql2": "^3.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}

@@ -1,0 +1,6 @@
+"id","nombre","apellido","direccion","correo electronico","DNI","edad","fecha_creacion_usuario","telefono"
+"1","Joel","rosero","cll. 25sur-7 #45","joel@gmail.com","2015478893","22","0000-00-00","958623054"
+"2","Jorge","Hernandez","cll. 13-4 #31","jorge@gmail.com","2147483647","25","0000-00-00","958636247"
+"3","Marisol","Merchan","cll. 20-11 #01","marisol@gmail.com","1548759602","18","0000-00-00","958462085"
+"4","laura","Mercado","cll. 15-20 #09","laura@gmail.com","24589237","29","0000-00-00","945820033"
+"5","Roger","Arellano","cll. 52-14 #32","roger@gmail.com","1500298564","42","0000-00-00","950258497"
